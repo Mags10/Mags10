@@ -37,7 +37,7 @@ Desarrollador full stack con enfoque en aplicaciones móviles y web, especializa
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mags10&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mags10&theme=default&hide_border=true&mode=weekly" alt="GitHub Streak Semanal" />
 </div>
 
 <div align="center">
