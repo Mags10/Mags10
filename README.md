@@ -34,8 +34,14 @@ Desarrollador full stack con enfoque en aplicaciones móviles y web, especializa
 
 ## Estadísticas
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mags10&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://streak-stats.demolab.com?user=Mags10&theme=default&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mags10&layout=compact&theme=default&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ## Contacto
