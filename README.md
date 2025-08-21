@@ -1,7 +1,7 @@
 # Miguel Gtz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2D7DD2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Aprendizaje+constante;Soluciones+creativas;Trabajo+colaborativo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2D7DD2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Aprendizaje+constante;" alt="Typing SVG" />
 </div>
 
 ## Sobre mí
