@@ -1,9 +1,5 @@
 # Miguel Gtz
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2D7DD2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Aprendizaje+constante;" alt="Typing SVG" />
-</div>
-
 ## Sobre mí
 
 Desarrollador full stack con enfoque en aplicaciones móviles y web, especializado en backend orientado a APIs seguras y eficientes. Me apasiona la automatización, la arquitectura de software y la creación de soluciones en tiempo real. Siempre busco aprender y colaborar en proyectos que generen impacto.
